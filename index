@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> Jbru's Games </title>
+    <!--
+    Author: Justin Brunaugh
+    Date Created: 2/12/2024
+    Description: Display "Game Files" That Will Pull IP
+    -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+  </head>
+  <body>
+    <h1> Jbru's Game Files </h1>
+    <h2> Select A Game To Play </h2>
+    <p> <a href="https://stopify.co/game.php?id=DRF668">Cookie Clicker</a></p>
+  </body>
+</html>
